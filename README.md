@@ -1,5 +1,7 @@
 # 楓時 · Maple Ledger
 
+[![0.2.6 安裝包下載次數](https://img.shields.io/github/downloads/hank0521/maple-ledger/v0.2.6/Maple-Ledger-0.2.6-Windows-x64-setup.exe?displayAssetName=false&style=for-the-badge&label=0.2.6%20%E5%AE%89%E8%A3%9D%E5%8C%85%E4%B8%8B%E8%BC%89&color=ea580c)](https://github.com/hank0521/maple-ledger/releases/tag/v0.2.6)
+
 輕量的 Windows 桌面工具，手動記錄《新楓之谷：經典版》的練功時間、楓幣、消耗品及 EXP，快速查看本場收益與練功效率。
 
 此儲存庫提供安裝包與版本說明。
@@ -35,6 +37,8 @@
 楓時採手動輸入，不讀取遊戲。內建價格與 EXP 為社群參考資料，請依實際遊戲版本核對；加倍券只記錄使用張數，不會將輸入的實際 EXP 再乘二。
 
 ## 下載統計
+
+首頁上方的「0.2.6 安裝包下載」徽章會自動顯示該版本 `.exe` 安裝包的累計下載次數，不包含 `.sha256` 校驗檔。數字由 [Shields.io](https://shields.io/badges/git-hub-downloads-specific-asset-specific-tag) 讀取 GitHub 資料，因快取可能稍有延遲。
 
 GitHub 會記錄各個 Release 附件的下載次數。統計安裝包的 `download_count` 即可；重複下載也可能累計，因此代表下載次數，不等同不重複使用者人數。
 
